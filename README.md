@@ -10,6 +10,8 @@ de Bogotá (SDSCJ), publicado en su Observatorio → <https://oaiee.scj.gov.co/D
 > **Gran Idea:** *La violencia intrafamiliar está 61 % por encima de su promedio histórico mientras el hurto retrocede:
 > la seguridad de Bogotá también se juega dentro de la casa.*
 
+**Ver la visualización interactiva:** <https://adrianfelipe812.github.io/violencia-intrafamiliar-bogota-plotly/>
+
 ---
 
 ## 1. Estructura del proyecto
