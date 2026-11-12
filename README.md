@@ -1,5 +1,11 @@
 # Violencia intrafamiliar en Bogotá — narrativa visual interactiva con Plotly
 
+### ▶ [Abrir la visualización interactiva](https://adrianfelipe812.github.io/violencia-intrafamiliar-bogota-plotly/)
+
+[![Vista previa de la narrativa visual: clic para abrir la versión interactiva](docs/vista_previa.png)](https://adrianfelipe812.github.io/violencia-intrafamiliar-bogota-plotly/)
+
+*Clic en la imagen para abrir la versión interactiva en el navegador, sin descargar nada.*
+
 **Curso:** Visualización de Datos · Maestría en Ciencia de Datos · Universidad Santo Tomás
 **Actividad:** Gráficos interactivos y storytelling con Plotly (20 %) — Sección 2
 **Integrantes:** Adrian Felipe Grateron, Jhonatan Smith Doncel y Jorge Emmanuel Marin
@@ -9,8 +15,6 @@ de Bogotá (SDSCJ), publicado en su Observatorio → <https://oaiee.scj.gov.co/D
 
 > **Gran Idea:** *La violencia intrafamiliar está 61 % por encima de su promedio histórico mientras el hurto retrocede:
 > la seguridad de Bogotá también se juega dentro de la casa.*
-
-**Ver la visualización interactiva:** <https://adrianfelipe812.github.io/violencia-intrafamiliar-bogota-plotly/>
 
 ---
 
