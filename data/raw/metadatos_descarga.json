@@ -1,0 +1,8 @@
+{
+  "url": "https://oaiee.scj.gov.co/DatosDescarga/SIEDCO.csv",
+  "archivo": "data\\raw\\delitos_alto_impacto_SDSCJ.csv",
+  "fecha_descarga": "2026-11-08T17:41:38",
+  "bytes": 33390232,
+  "sha256": "b9853b1ee2ce50a294e1c271c550dbaee86ac8057b5bd1d0d1d6c75e7a575493",
+  "last_modified_servidor": "Mon, 19 Oct 2026 23:14:22 GMT"
+}

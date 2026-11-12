@@ -1,0 +1,9 @@
+# Versiones exactas con las que se generaron el HTML y el PDF (Python 3.14.3).
+pandas==3.0.6
+numpy==2.5.4
+plotly==7.1.0
+nbformat==5.11.1
+ipykernel==7.2.0
+requests==2.34.2
+truststore==0.10.5
+reportlab==5.1.0

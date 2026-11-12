@@ -1,0 +1,53 @@
+{
+  "filas": 376185,
+  "casos_totales": 1934083,
+  "periodo": [
+    "2018-01-01",
+    "2026-09-01"
+  ],
+  "fecha_consulta_fuente": "17/10/2026",
+  "datos_actualizados_hasta": "30/09/2026",
+  "delitos": [
+    "Delitos sexuales",
+    "Extorsión",
+    "Homicidios",
+    "Hurto a comercio",
+    "Hurto a entidades financieras",
+    "Hurto a personas",
+    "Hurto a residencias",
+    "Hurto de automotores",
+    "Hurto de motocicletas",
+    "Lesiones personales",
+    "Secuestro",
+    "Violencia intrafamiliar"
+  ],
+  "localidades": 21,
+  "categorias_arma_originales": 43,
+  "grupos_arma": [
+    "Arma blanca / cortopunzante",
+    "Arma de fuego",
+    "Contundentes",
+    "Herramientas (llave maestra, palancas)",
+    "Medios telefónicos / digitales",
+    "No reportado / por establecer",
+    "Otros medios",
+    "Sin empleo de armas",
+    "Sustancias (escopolamina, químicos)"
+  ],
+  "validaciones_superadas": [
+    "Total de casos conservado",
+    "Mismo número de filas",
+    "Sin nulos",
+    "Conteos positivos",
+    "Meses 1–12",
+    "Sin duplicados en la llave tidy",
+    "Código ↔ nombre de localidad 1:1"
+  ],
+  "alerta_ultimo_mes": {
+    "mes": "2026-09",
+    "casos": 13878,
+    "promedio_3_meses_previos": 19064.0,
+    "proporcion": 0.728,
+    "interpretacion": "El último mes publicado está por debajo del promedio reciente: probable rezago de registro. Se marca como PRELIMINAR en los gráficos."
+  }
+}

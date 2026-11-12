@@ -1,0 +1,257 @@
+{
+  "ultimo_anio": 2026,
+  "ultimo_mes": 9,
+  "ventana": "enero–septiembre",
+  "foco": {
+    "delito": "Violencia intrafamiliar",
+    "base": 26767.6,
+    "actual": 43013,
+    "cambio_pct": 60.7,
+    "cambio_abs": 16245.4,
+    "racha": 3,
+    "participacion_pct": 24.8,
+    "participacion_base_pct": 17.5,
+    "ranking_cambio_abs": 1,
+    "casos_2022": 25719,
+    "cambio_pct_vs_2022": 67.2
+  },
+  "contraste": {
+    "delito": "Hurto a personas",
+    "actual": 86376,
+    "cambio_pct_vs_base": 7.8,
+    "anio_pico": 2023,
+    "pico": 120489,
+    "cambio_pct_vs_pico": -28.3
+  },
+  "unicos_con_racha_3": [
+    "Violencia intrafamiliar"
+  ],
+  "perfil": {
+    "total": 43013,
+    "pct_mujeres": 71.4,
+    "pct_menores": 23.5,
+    "pct_vejez": 8.0,
+    "pct_madrugada": 35.6,
+    "pct_noche_madrugada": 60.9,
+    "pct_sin_arma": 98.1,
+    "franja": {
+      "Madrugada": 35.6,
+      "Mañana": 15.6,
+      "Tarde": 23.5,
+      "Noche": 25.4
+    },
+    "ciclo": {
+      "Infancia": 14.6,
+      "Adolescencia": 8.9,
+      "Adultez": 62.6,
+      "Vejez": 8.0,
+      "No reportado": 5.9
+    }
+  },
+  "top_localidades_aumento": [
+    {
+      "localidad": "Ciudad Bolívar",
+      "base": 2885.2,
+      "actual": 4537,
+      "aumento": 1651.8,
+      "cambio_pct": 57.3
+    },
+    {
+      "localidad": "Engativá",
+      "base": 2489.2,
+      "actual": 3978,
+      "aumento": 1488.8,
+      "cambio_pct": 59.8
+    },
+    {
+      "localidad": "Puente Aranda",
+      "base": 918.4,
+      "actual": 2114,
+      "aumento": 1195.6,
+      "cambio_pct": 130.2
+    },
+    {
+      "localidad": "Kennedy",
+      "base": 3437.2,
+      "actual": 4620,
+      "aumento": 1182.8,
+      "cambio_pct": 34.4
+    },
+    {
+      "localidad": "San Cristóbal",
+      "base": 1765.2,
+      "actual": 2840,
+      "aumento": 1074.8,
+      "cambio_pct": 60.9
+    }
+  ],
+  "franjas": {
+    "Madrugada": {
+      "base": 11809.0,
+      "actual": 15311,
+      "aumento": 3502.0,
+      "cambio_pct": 29.7,
+      "part_base": 44.1,
+      "part_actual": 35.6
+    },
+    "Mañana": {
+      "base": 5245.8,
+      "actual": 6703,
+      "aumento": 1457.2,
+      "cambio_pct": 27.8,
+      "part_base": 19.6,
+      "part_actual": 15.6
+    },
+    "Tarde": {
+      "base": 4148.4,
+      "actual": 10094,
+      "aumento": 5945.6,
+      "cambio_pct": 143.3,
+      "part_base": 15.5,
+      "part_actual": 23.5
+    },
+    "Noche": {
+      "base": 5564.4,
+      "actual": 10905,
+      "aumento": 5340.6,
+      "cambio_pct": 96.0,
+      "part_base": 20.8,
+      "part_actual": 25.4
+    }
+  },
+  "siguientes_localidades": [
+    "Santa Fe",
+    "Fontibón",
+    "Suba"
+  ],
+  "pct_aumento_top5": 45.7,
+  "sin_localizacion": {
+    "2022": 1,
+    "2026": 1942
+  },
+  "resumen_delitos": [
+    {
+      "delito": "Violencia intrafamiliar",
+      "base_2018_2022": 26767.6,
+      "casos_2026": 43013,
+      "cambio_abs": 16245.4,
+      "cambio_pct": 60.7,
+      "anios_consecutivos_al_alza": 3,
+      "participacion_pct": 24.8
+    },
+    {
+      "delito": "Hurto a personas",
+      "base_2018_2022": 80089.4,
+      "casos_2026": 86376,
+      "cambio_abs": 6286.6,
+      "cambio_pct": 7.8,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 49.8
+    },
+    {
+      "delito": "Delitos sexuales",
+      "base_2018_2022": 4460.2,
+      "casos_2026": 6613,
+      "cambio_abs": 2152.8,
+      "cambio_pct": 48.3,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 3.8
+    },
+    {
+      "delito": "Lesiones personales",
+      "base_2018_2022": 16544.8,
+      "casos_2026": 17636,
+      "cambio_abs": 1091.2,
+      "cambio_pct": 6.6,
+      "anios_consecutivos_al_alza": 2,
+      "participacion_pct": 10.2
+    },
+    {
+      "delito": "Extorsión",
+      "base_2018_2022": 842.2,
+      "casos_2026": 1639,
+      "cambio_abs": 796.8,
+      "cambio_pct": 94.6,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 0.9
+    },
+    {
+      "delito": "Hurto de motocicletas",
+      "base_2018_2022": 3231.6,
+      "casos_2026": 3392,
+      "cambio_abs": 160.4,
+      "cambio_pct": 5.0,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 2.0
+    },
+    {
+      "delito": "Homicidios",
+      "base_2018_2022": 776.2,
+      "casos_2026": 819,
+      "cambio_abs": 42.8,
+      "cambio_pct": 5.5,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 0.5
+    },
+    {
+      "delito": "Secuestro",
+      "base_2018_2022": 7.6,
+      "casos_2026": 23,
+      "cambio_abs": 15.4,
+      "cambio_pct": 202.6,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 0.0
+    },
+    {
+      "delito": "Hurto a entidades financieras",
+      "base_2018_2022": 31.0,
+      "casos_2026": 4,
+      "cambio_abs": -27.0,
+      "cambio_pct": -87.1,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 0.0
+    },
+    {
+      "delito": "Hurto de automotores",
+      "base_2018_2022": 2668.0,
+      "casos_2026": 2297,
+      "cambio_abs": -371.0,
+      "cambio_pct": -13.9,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 1.3
+    },
+    {
+      "delito": "Hurto a residencias",
+      "base_2018_2022": 6441.4,
+      "casos_2026": 5036,
+      "cambio_abs": -1405.4,
+      "cambio_pct": -21.8,
+      "anios_consecutivos_al_alza": 2,
+      "participacion_pct": 2.9
+    },
+    {
+      "delito": "Hurto a comercio",
+      "base_2018_2022": 11031.6,
+      "casos_2026": 6734,
+      "cambio_abs": -4297.6,
+      "cambio_pct": -39.0,
+      "anios_consecutivos_al_alza": 0,
+      "participacion_pct": 3.9
+    }
+  ],
+  "calidad": {
+    "periodo": [
+      "2018-01-01",
+      "2026-09-01"
+    ],
+    "datos_actualizados_hasta": "30/09/2026",
+    "fecha_consulta_fuente": "17/10/2026",
+    "alerta_ultimo_mes": {
+      "mes": "2026-09",
+      "casos": 13878,
+      "promedio_3_meses_previos": 19064.0,
+      "proporcion": 0.728,
+      "interpretacion": "El último mes publicado está por debajo del promedio reciente: probable rezago de registro. Se marca como PRELIMINAR en los gráficos."
+    }
+  }
+}
